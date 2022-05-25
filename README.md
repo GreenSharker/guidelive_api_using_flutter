@@ -1,16 +1,5 @@
-# flutter_login_build
+# 가이드라이브 API를 이용하여 플러터 앱에 CRUD 구현하는 프로젝트
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## <span style="color:red">주의사항</span>
+- 플러터 버전이 3.0 이상이어야 합니다.
+- 데이터베이스와 백엔드 서버를 실행해야 합니다.
