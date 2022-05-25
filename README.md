@@ -25,3 +25,7 @@
 
 - 성공적으로 저장한 경우, 상품메타 페이지로 돌아와서 새로 등록된 상품메타를 볼 수 있습니다.
 <img width="30%" src="https://user-images.githubusercontent.com/48400348/170165692-9bd7beeb-3f90-4b9a-bcf4-d2387cc94012.png">
+
+### 설치된 라이브러리
+- http 
+- provider
